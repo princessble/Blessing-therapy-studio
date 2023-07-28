@@ -1,5 +1,5 @@
 Blessing Therapeutic Studio Website
-
+Therapy Studio Website
 Welcome to the Therapy Studio Website repository! This repository contains the code and resources for a one-page therapy studio responsive website built using HTML, CSS, and Bootstrap. The website aims to provide information about the therapy studio, its services, and contact details to potential clients or visitors.
 
 Features
