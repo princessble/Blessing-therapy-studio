@@ -1,70 +1,70 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 /* Hero Section */
 .hero-section {
-    background-color: hsl(0, 44%, 54%);
-    text-align: center;
-    padding: 100px 0;
+  background-color: hsl(0, 44%, 54%);
+  text-align: center;
+  padding: 100px 0;
 }
 
 .hero-section h1 {
-    font-size: 48px;
-    margin-bottom: 20px;
+  font-size: 48px;
+  margin-bottom: 20px;
 }
 
 .hero-section p {
-    font-size: 20px;
-    margin-bottom: 40px;
+  font-size: 20px;
+  margin-bottom: 40px;
 }
 
 /* About Section */
 .about-section {
-    text-align: center;
-    padding: 100px 0;
+  text-align: center;
+  padding: 100px 0;
 }
 
 /* Services Section */
 .services-section {
-    text-align: center;
-    padding: 100px 0;
+  text-align: center;
+  padding: 100px 0;
 }
 
 .services-section ul {
-    list-style: none;
-    padding: 0;
+  list-style: none;
+  padding: 0;
 }
 
 .services-section li {
-    font-size: 24px;
-    margin-bottom: 20px;
+  font-size: 24px;
+  margin-bottom: 20px;
 }
 
 /* Contact Section */
 .contact-section {
-    text-align: center;
-    padding: 100px 0;
+  text-align: center;
+  padding: 100px 0;
 }
 
 .contact-section form {
-    max-width: 400px;
-    margin: 0 auto;
+  max-width: 400px;
+  margin: 0 auto;
 }
 
 .contact-section .form-group {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 /* Footer Section */
 .footer-section {
-    background-color: #333;
-    color: rgb(13, 197, 89);
-    padding: 20px 0;
+  background-color: #333;
+  color: rgb(13, 197, 89);
+  padding: 20px 0;
 }
 
 .footer-section p {
-    margin: 0;
+  margin: 0;
 }
