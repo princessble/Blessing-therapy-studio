@@ -50,7 +50,9 @@ Before running the website, ensure you have the following installed:
    ```bash
    git clone https://github.com/princessble/Blessing-therapy-studio.git
 
-   Contributing 🤝
+   
+
+Contributing 🤝
 I welcome contributions to improve the website and make it even better. If you find any issues or have enhancements to suggest, please open an issue or submit a pull request.
 
 Acknowledgements 💖
