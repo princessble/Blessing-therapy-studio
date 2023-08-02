@@ -2,7 +2,9 @@
   <img src="./images/therapy-studio.jpg" alt="Therapy Studio" width="300px">
 </div>
 
-# Blessing Therapy Studio Website 🌿
+# Blessing Therapy Studio Website 🌿!![logo](https://github.com/princessble/Blessing-therapy-studio/assets/logo.png)
+
+
 
 Welcome to Blessing Therapeutic Studio Website repository! 🌟 This repository contains the code and resources for a one-page therapy studio responsive website built using HTML, CSS, and Bootstrap. The website aims to provide information about the therapy studio, its services, and contact details to potential clients or visitors.
 
