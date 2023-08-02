@@ -2,7 +2,7 @@
   <img src="./images/therapy-studio.jpg" alt="Therapy Studio" width="300px">
 </div>
 
-# Blessing Therapy Studio Website 🌿!![logo](https://github.com/princessble/Blessing-therapy-studio/assets/logo.png)
+# Blessing Therapy Studio Website 🌿assets/logo.png
 
 
 
