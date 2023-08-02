@@ -1,70 +1,24 @@
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
+/* Custom CSS for the website */
+
+/* Adjust hero section */
+.hero {
+    background-color: hsl(139, 73%, 38%);
+    text-align: center;
+    padding: 100px 0;
 }
 
-/* Hero Section */
-.hero-section {
-  background-color: hsl(0, 44%, 54%);
-  text-align: center;
-  padding: 100px 0;
+/* Style the form elements */
+.form-group label {
+    font-weight: bold;
 }
 
-.hero-section h1 {
-  font-size: 48px;
-  margin-bottom: 20px;
+/* Add some padding to the cards in the services section */
+.card {
+    margin-bottom: 30px;
 }
 
-.hero-section p {
-  font-size: 20px;
-  margin-bottom: 40px;
-}
-
-/* About Section */
-.about-section {
-  text-align: center;
-  padding: 100px 0;
-}
-
-/* Services Section */
-.services-section {
-  text-align: center;
-  padding: 100px 0;
-}
-
-.services-section ul {
-  list-style: none;
-  padding: 0;
-}
-
-.services-section li {
-  font-size: 24px;
-  margin-bottom: 20px;
-}
-
-/* Contact Section */
-.contact-section {
-  text-align: center;
-  padding: 100px 0;
-}
-
-.contact-section form {
-  max-width: 400px;
-  margin: 0 auto;
-}
-
-.contact-section .form-group {
-  margin-bottom: 20px;
-}
-
-/* Footer Section */
-.footer-section {
-  background-color: #333;
-  color: rgb(13, 197, 89);
-  padding: 20px 0;
-}
-
-.footer-section p {
-  margin: 0;
+/* Style the footer */
+footer {
+    text-align: center;
+    padding: 15px 0;
 }
