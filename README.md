@@ -1,6 +1,6 @@
 # Blessing Therapeutic Studio 🌟
 
-# Blessing Therapy Studio Website 🌿assets/logo.png
+# Blessing Therapy Studio Website 🌿css/logo.png
 
 ![Blessing Therapeutic Studio] logo.png
 
@@ -26,17 +26,17 @@ Welcome to Blessing Therapeutic Studio! At Blessing Therapeutic Studio, we are d
 ## Our Services
 
 ### 1. Massage Therapy 🌸
-![Massage Therapy](assets/images/massage.jpg)
+![Massage Therapy](css/massage.jpg)
 
 Our skilled massage therapists offer a range of massage techniques to alleviate tension, reduce muscle stiffness, and promote overall relaxation. Whether you seek relief from chronic pain or simply want to unwind, our tailored massage sessions are designed to meet your unique needs.
 
 ### 2. Mindfulness Meditation 🧘‍♀️
-![Mindfulness Meditation](assets/images/mindful.jpg)
+![Mindfulness Meditation](css/mindful.jpg)
 
 Experience the transformative power of mindfulness meditation at Blessing Therapeutic Studio. Our guided meditation sessions help you cultivate mindfulness, reduce stress, and enhance mental clarity. Embrace a calmer, more centered state of being through regular practice.
 
 ### 3. Holistic Counseling 🌈
-![Holistic Counseling](assets/images/counsel.jpg)
+![Holistic Counseling](css/counsel.jpg)
 
 Our holistic counseling services provide a supportive space to address emotional challenges and foster personal growth. Our skilled counselors work with you to explore your inner landscape and develop coping strategies, empowering you to lead a fulfilling life.
 
