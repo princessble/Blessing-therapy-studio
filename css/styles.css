@@ -24,7 +24,7 @@ footer {
 }
 /* Resize the logo image */
 .logo-img {
-    width: 150px; /* Set the desired width for the logo */
+    width: 80px; /* Set the desired width for the logo */
     height: auto; /* Let the height adjust proportionally */
 
 }
