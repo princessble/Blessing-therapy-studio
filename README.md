@@ -1,4 +1,7 @@
 # Blessing Therapeutic Studio 🌟🌿
+<p align="center">
+  <img src="./css/logo.png" alt="Studio Logo" width="200" height="200">
+</p>
 
 ![Studio Logo](./css/logo.png)
 
