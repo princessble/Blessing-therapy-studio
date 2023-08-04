@@ -6,7 +6,8 @@
 
 
 
-Your journey to wellness starts here. Welcome to Blessing Therapeutic Studio, where we believe in promoting holistic well-being through personalized therapeutic sessions. Our team of dedicated professionals is committed to helping you find inner balance, reduce stress, and achieve a healthier mind-body connection. With a focus on individual needs, our tranquil environment provides the perfect setting for your journey to wellness.
+Your journey to wellness starts here.🌟 
+Welcome to Blessing Therapeutic Studio, where we believe in promoting holistic well-being through personalized therapeutic sessions. Our team of dedicated professionals is committed to helping you find inner balance, reduce stress, and achieve a healthier mind-body connection. With a focus on individual needs, our tranquil environment provides the perfect setting for your journey to wellness.
 
 ## Table of Contents
 - 📜 [About Us](#about)
