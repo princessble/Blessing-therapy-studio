@@ -58,7 +58,7 @@ During development, it's essential to ensure that your HTML code is well-formed 
 
 Similarly, validating your CSS code helps maintain a consistent and error-free design. Use the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) to identify any CSS validation issues.
 
-[CSS Validation Example] <img src="assets\image\" alt="HTML code validation">
+[CSS Validation Example] <img src="assets\image\cssval.png" alt="HTML code validation">
 
 # Description
 Your journey to wellness starts here.🌟 
