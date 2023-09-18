@@ -53,7 +53,7 @@ Welcome to Blessing Therapeutic Studio! At Blessing Therapeutic Studio, we are d
 ## Our Services
 
 ### 1. Massage Therapy 🌸
-![Massage Therapy](css/massage.jpg)
+![Massage Therapy] <img src="assets\image\massage.jpg" alt="massage therapy jpg>
 
 Our skilled massage therapists offer a range of massage techniques to alleviate tension, reduce muscle stiffness, and promote overall relaxation. Whether you seek relief from chronic pain or simply want to unwind, our tailored massage sessions are designed to meet your unique needs.
 
