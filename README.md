@@ -52,7 +52,7 @@ This flowchart visually outlines the structure of the HTML document for the "Ble
 
 During development, it's essential to ensure that your HTML code is well-formed and follows best practices. You can use the [W3C Markup Validation Service](https://validator.w3.org/) to check for HTML validation errors.
 
-![HTML Validation Example] <img src="assets\image" alt="HTML code validation">
+![HTML Validation Example] <img src="assets\image\htmlval.png" alt="HTML code validation">
 
 ## 🎨 CSS Validation
 
