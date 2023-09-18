@@ -7,7 +7,8 @@
 At Blessing Therapeutic Studio, we prioritize a responsive user interface to ensure a seamless experience across various devices and screen sizes. Whether you're using a desktop, tablet, or smartphone, our website adapts effortlessly to provide you with the best experience.
 
 
-![Features]<img src="assets\image\webscreens.png" alt= "responsive design">
+# Features 
+<img src="assets\image\webscreens.png" alt= "responsive design">
 Experience the power of a fully responsive website that adapts seamlessly to different screen sizes and devices. 📱💻🖥️
 
 Our design is carefully crafted with media queries and flexible layouts to ensure a consistent and user-friendly experience across desktops, laptops, tablets, and smartphones. 🎨📏
@@ -53,7 +54,7 @@ Welcome to Blessing Therapeutic Studio! At Blessing Therapeutic Studio, we are d
 ## Our Services
 
 ### 1. Massage Therapy 🌸
-![Massage Therapy] <img src="assets\image\massage.jpg" alt="massage therapy jpg">
+<img src="assets\image\massage.jpg" alt="massage therapy jpg">
 
 Our skilled massage therapists offer a range of massage techniques to alleviate tension, reduce muscle stiffness, and promote overall relaxation. Whether you seek relief from chronic pain or simply want to unwind, our tailored massage sessions are designed to meet your unique needs.
 
