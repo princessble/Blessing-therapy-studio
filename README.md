@@ -66,7 +66,7 @@ Our skilled massage therapists offer a range of massage techniques to alleviate 
 Experience the transformative power of mindfulness meditation at Blessing Therapeutic Studio. Our guided meditation sessions help you cultivate mindfulness, reduce stress, and enhance mental clarity. Embrace a calmer, more centered state of being through regular practice.
 
 ### 3. Holistic Counseling 🌈
-![Holistic Counseling](css/counsel.jpg)
+<img src="assets\image\counsel.jpg" alt="Counseling jpg">
 
 Our holistic counseling services provide a supportive space to address emotional challenges and foster personal growth. Our skilled counselors work with you to explore your inner landscape and develop coping strategies, empowering you to lead a fulfilling life.
 
@@ -126,7 +126,6 @@ We express our sincere gratitude to the following tools and technologies that ha
 
 We acknowledge the dedicated teams and communities behind these tools, whose continuous efforts have made web development an enjoyable and rewarding experience for us. Thank you for empowering us to create a website that truly reflects the essence of Blessing Therapeutic Studio. 🙏🌿
 ## Footer
-
 
 
 &copy; 2023 Blessing Therapeutic Studio. All rights reserved. 🌟
