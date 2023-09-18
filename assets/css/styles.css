@@ -1,6 +1,9 @@
+
 /* Custom CSS for the Therapeutic website */
 
 /* Adjust hero section */
+*, *::before, *::after 
+
 .hero {
     background-color: hsl(139, 73%, 38%);
     text-align: center;
