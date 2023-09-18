@@ -59,7 +59,7 @@ Welcome to Blessing Therapeutic Studio! At Blessing Therapeutic Studio, we are d
 Our skilled massage therapists offer a range of massage techniques to alleviate tension, reduce muscle stiffness, and promote overall relaxation. Whether you seek relief from chronic pain or simply want to unwind, our tailored massage sessions are designed to meet your unique needs.
 
 ### 2. Mindfulness Meditation 🧘‍♀️
-![Mindfulness Meditation](css/mindful.jpg)
+<img src="assets\image\mindful.jpg" alt="mindfulness meditation jpg">
 
 Experience the transformative power of mindfulness meditation at Blessing Therapeutic Studio. Our guided meditation sessions help you cultivate mindfulness, reduce stress, and enhance mental clarity. Embrace a calmer, more centered state of being through regular practice.
 
