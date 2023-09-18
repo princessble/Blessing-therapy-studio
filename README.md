@@ -3,20 +3,28 @@
   <img src="assets\image\logo.png" alt="Studio Logo" width="200" height="200">
 </p>
 
-## Responsive Design
-
+# Responsive 
 At Blessing Therapeutic Studio, we prioritize a responsive user interface to ensure a seamless experience across various devices and screen sizes. Whether you're using a desktop, tablet, or smartphone, our website adapts effortlessly to provide you with the best experience.
 
-### Responsive Device Checker
+
+![Features]<img src="assets\image\webscreens.png" alt= responsive design">
+Experience the power of a fully responsive website that adapts seamlessly to different screen sizes and devices. 📱💻🖥️
+
+Our design is carefully crafted with media queries and flexible layouts to ensure a consistent and user-friendly experience across desktops, laptops, tablets, and smartphones. 🎨📏
+
+Navigate effortlessly with touch-friendly elements on your favorite mobile devices. 📱👆
+
+Optimized images and assets enhance loading speed, providing a smooth browsing experience on the go. 🚀💨
+
+We guarantee compatibility with all major browsers for smooth performance across the web. 🌐🚀
+
+# Responsive Device Checker
 
 To visualize how Blessing Therapeutic Studio adapts to different screen sizes, you can use the [Am I Responsive](https://ui.dev/amiresponsive?url=https://princessble.github.io/Blessing-therapy-studio/) tool. This tool allows you to see how our website looks on different devices.
 
 To experience our responsive design firsthand, you can also visit the live version of Blessing Therapeutic Studio using this link: [Blessing Therapeutic Studio](https://princessble.github.io/Blessing-therapy-studio/).
 
 
-
-Your journey to wellness starts here.🌟 
-Welcome to Blessing Therapeutic Studio, where we believe in promoting holistic well-being through personalized therapeutic sessions. Our team of dedicated professionals is committed to helping you find inner balance, reduce stress, and achieve a healthier mind-body connection. With a focus on individual needs, our tranquil environment provides the perfect setting for your journey to wellness.
 
 
 ## Table of Contents
@@ -34,17 +42,10 @@ Welcome to Blessing Therapeutic Studio, where we believe in promoting holistic w
 - 📆 [Footer](#footer)
 
 
-## Description
-![Features](css/webscreens.png)
-Experience the power of a fully responsive website that adapts seamlessly to different screen sizes and devices. 📱💻🖥️
+# Description
+Your journey to wellness starts here.🌟 
+Welcome to Blessing Therapeutic Studio, where we believe in promoting holistic well-being through personalized therapeutic sessions. Our team of dedicated professionals is committed to helping you find inner balance, reduce stress, and achieve a healthier mind-body connection. With a focus on individual needs, our tranquil environment provides the perfect setting for your journey to wellness.
 
-Our design is carefully crafted with media queries and flexible layouts to ensure a consistent and user-friendly experience across desktops, laptops, tablets, and smartphones. 🎨📏
-
-Navigate effortlessly with touch-friendly elements on your favorite mobile devices. 📱👆
-
-Optimized images and assets enhance loading speed, providing a smooth browsing experience on the go. 🚀💨
-
-We guarantee compatibility with all major browsers for smooth performance across the web. 🌐🚀
 ## About Us
 
 Welcome to Blessing Therapeutic Studio! At Blessing Therapeutic Studio, we are dedicated to providing you with the best therapeutic experience. Our services are designed to alleviate tension, reduce muscle stiffness, and promote overall relaxation. Whether you seek relief from chronic pain or simply want to unwind, our tailored massage sessions and mindfulness meditation classes are designed to meet your unique needs.
