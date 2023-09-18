@@ -1,8 +1,17 @@
 # Blessing Therapeutic Studio 🌟🌿
 <p align="center">
-  <img src="./css/logo.png" alt="Studio Logo" width="200" height="200">
+  <img src="assets\image\logo.png" alt="Studio Logo" width="200" height="200">
 </p>
 
+## Responsive Design
+
+At Blessing Therapeutic Studio, we prioritize a responsive user interface to ensure a seamless experience across various devices and screen sizes. Whether you're using a desktop, tablet, or smartphone, our website adapts effortlessly to provide you with the best experience.
+
+### Responsive Device Checker
+
+To visualize how Blessing Therapeutic Studio adapts to different screen sizes, you can use the [Am I Responsive](https://ui.dev/amiresponsive?url=https://princessble.github.io/Blessing-therapy-studio/) tool. This tool allows you to see how our website looks on different devices.
+
+To experience our responsive design firsthand, you can also visit the live version of Blessing Therapeutic Studio using this link: [Blessing Therapeutic Studio](https://princessble.github.io/Blessing-therapy-studio/).
 
 
 
