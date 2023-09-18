@@ -45,11 +45,13 @@ To experience our responsive design firsthand, you can also visit the live versi
 
 # Description
 Your journey to wellness starts here.🌟 
+
 Welcome to Blessing Therapeutic Studio, where we believe in promoting holistic well-being through personalized therapeutic sessions. Our team of dedicated professionals is committed to helping you find inner balance, reduce stress, and achieve a healthier mind-body connection. With a focus on individual needs, our tranquil environment provides the perfect setting for your journey to wellness.
 
 ## About Us
 
-Welcome to Blessing Therapeutic Studio! At Blessing Therapeutic Studio, we are dedicated to providing you with the best therapeutic experience. Our services are designed to alleviate tension, reduce muscle stiffness, and promote overall relaxation. Whether you seek relief from chronic pain or simply want to unwind, our tailored massage sessions and mindfulness meditation classes are designed to meet your unique needs.
+Welcome to Blessing Therapeutic Studio! 
+At Blessing Therapeutic Studio, we are dedicated to providing you with the best therapeutic experience. Our services are designed to alleviate tension, reduce muscle stiffness, and promote overall relaxation. Whether you seek relief from chronic pain or simply want to unwind, our tailored massage sessions and mindfulness meditation classes are designed to meet your unique needs.
 
 ## Our Services
 
@@ -101,22 +103,26 @@ To get started with Blessing Therapeutic Studio, follow these steps:
 2. Navigate to the project directory.
 3. Open the `index.html` file in your web browser.
 
-Thank you for visiting Blessing Therapeutic Studio's GitHub repository! 🌸 We are excited to share our passion for holistic well-being with you. If you have any questions, feel free to open an issue or contact us through our website. 💌 We hope to see you at our studio soon! 😊
+Thank you for visiting Blessing Therapeutic Studio's GitHub repository! 
 
-Acknowledgements 🙏
+🌸 We are excited to share our passion for holistic well-being with you. If you have any questions, feel free to open an issue or contact us through our website. 
+
+💌 We hope to see you at our studio soon! 😊
+
+# Acknowledgements 🙏
 for the Tools Used:
 
 We express our sincere gratitude to the following tools and technologies that have played a crucial role in the creation of Blessing Therapeutic Studio's website:
 
-HTML and CSS 🌐🎨: The backbone of web development, HTML, and CSS have been instrumental in structuring and styling our website, making it visually appealing and user-friendly.
+1. HTML and CSS 🌐🎨: The backbone of web development, HTML, and CSS have been instrumental in structuring and styling our website, making it visually appealing and user-friendly.
 
-Bootstrap 🅱️: We extend our appreciation to Bootstrap for providing a powerful and responsive framework that enabled us to create a modern and mobile-friendly design effortlessly.
+2. Bootstrap 🅱️: We extend our appreciation to Bootstrap for providing a powerful and responsive framework that enabled us to create a modern and mobile-friendly design effortlessly.
 
-Git and GitHub 🐙: We are grateful to Git and GitHub for their version control capabilities, making collaboration among our team members seamless and efficient.
+3. Git and GitHub 🐙: We are grateful to Git and GitHub for their version control capabilities, making collaboration among our team members seamless and efficient.
 
-Codeanyapp 💻: Our heartfelt thanks to Codeanyapp for serving as our trusty code editor, with its intuitive features and extensions that enhanced our productivity.
+4. Codeanyapp 💻: Our heartfelt thanks to Codeanyapp for serving as our trusty code editor, with its intuitive features and extensions that enhanced our productivity.
 
-Font Awesome 🎉: We extend our appreciation to Font Awesome for its vast collection of icons that added visual appeal and clarity to our website.
+5. Font Awesome 🎉: We extend our appreciation to Font Awesome for its vast collection of icons that added visual appeal and clarity to our website.
 
 We acknowledge the dedicated teams and communities behind these tools, whose continuous efforts have made web development an enjoyable and rewarding experience for us. Thank you for empowering us to create a website that truly reflects the essence of Blessing Therapeutic Studio. 🙏🌿
 ## Footer
