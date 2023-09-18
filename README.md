@@ -42,6 +42,11 @@ To experience our responsive design firsthand, you can also visit the live versi
 - 🌟 [Getting Started](#getting-started)
 - 📆 [Footer](#footer)
 
+# HTML Structure Flowchart
+This flowchart visually outlines the structure of the HTML document for the "Blessing Therapeutic Studio" website, making it easier to understand the hierarchy and organization of elements.
+
+# Flowchart
+<img src="assets\image\" alt="The workflowchart">
 
 # Description
 Your journey to wellness starts here.🌟 
