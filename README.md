@@ -1,6 +1,6 @@
 # Blessing Therapeutic Studio 🌟🌿
 <p align="center">
-  <img src="assets\image\logo.png" alt="Studio Logo" width="200" height="200">
+  <img src="assets/image/logo.png" alt="Studio Logo" width="200" height="200">
 </p>
 
 # Responsive 
@@ -8,7 +8,7 @@ At Blessing Therapeutic Studio, we prioritize a responsive user interface to ens
 
 
 # Features 
-<img src="assets\image\webscreens.png" alt= "responsive design">
+<img src="assets/image/webscreens.png" alt= "responsive design">
 Experience the power of a fully responsive website that adapts seamlessly to different screen sizes and devices. 📱💻🖥️
 
 Our design is carefully crafted with media queries and flexible layouts to ensure a consistent and user-friendly experience across desktops, laptops, tablets, and smartphones. 🎨📏
@@ -46,19 +46,19 @@ To experience our responsive design firsthand, you can also visit the live versi
 This flowchart visually outlines the structure of the HTML document for the "Blessing Therapeutic Studio" website, making it easier to understand the hierarchy and organization of elements.
 
 # Flowchart
-<img src="assets\image\" alt="The workflowchart">
+<img src="assets/image/" alt="The workflowchart">
 
 ## 📋 HTML Validation
 
 During development, it's essential to ensure that your HTML code is well-formed and follows best practices. You can use the [W3C Markup Validation Service](https://validator.w3.org/) to check for HTML validation errors.
 
-![HTML Validation Example] <img src="assets\image\htmlval.png" alt="HTML code validation">
+![HTML Validation Example] <img src="assets/image/htmlval.png" alt="HTML code validation">
 
 ## 🎨 CSS Validation
 
 Similarly, validating your CSS code helps maintain a consistent and error-free design. Use the [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) to identify any CSS validation issues.
 
-[CSS Validation Example] <img src="assets\image\cssval.png" alt="HTML code validation">
+[CSS Validation Example] <img src="assets/image/cssval.png" alt="HTML code validation">
 
 # Description
 Your journey to wellness starts here.🌟 
@@ -73,17 +73,17 @@ At Blessing Therapeutic Studio, we are dedicated to providing you with the best 
 ## Our Services
 
 ### 1. Massage Therapy 🌸
-<img src="assets\image\massage.jpg" alt="massage therapy jpg">
+<img src="assets/image/massage.jpg" alt="massage therapy jpg">
 
 Our skilled massage therapists offer a range of massage techniques to alleviate tension, reduce muscle stiffness, and promote overall relaxation. Whether you seek relief from chronic pain or simply want to unwind, our tailored massage sessions are designed to meet your unique needs.
 
 ### 2. Mindfulness Meditation 🧘‍♀️
-<img src="assets\image\mindful.jpg" alt="mindfulness meditation jpg">
+<img src="assets/image/mindful.jpg" alt="mindfulness meditation jpg">
 
 Experience the transformative power of mindfulness meditation at Blessing Therapeutic Studio. Our guided meditation sessions help you cultivate mindfulness, reduce stress, and enhance mental clarity. Embrace a calmer, more centered state of being through regular practice.
 
 ### 3. Holistic Counseling 🌈
-<img src="assets\image\counsel.jpg" alt="Counseling jpg">
+<img src="assets/image/counsel.jpg" alt="Counseling jpg">
 
 Our holistic counseling services provide a supportive space to address emotional challenges and foster personal growth. Our skilled counselors work with you to explore your inner landscape and develop coping strategies, empowering you to lead a fulfilling life.
 
