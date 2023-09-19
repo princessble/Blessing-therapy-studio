@@ -46,7 +46,7 @@ To experience our responsive design firsthand, you can also visit the live versi
 This flowchart visually outlines the structure of the HTML document for the "Blessing Therapeutic Studio" website, making it easier to understand the hierarchy and organization of elements.
 
 # Flowchart
-<img src="assets/image/flowchart.png" alt="The workflowchart">
+<img src="assets/image/flowork.png" alt="The workflowchart">
 
 ## 📋 HTML Validation
 
