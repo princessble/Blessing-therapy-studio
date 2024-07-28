@@ -101,35 +101,35 @@ Thank you for visiting Blessing Therapeutic Studio's GitHub repository!
 Before deploying this website, I made sure to perform the following manual tests:
 
 - **Navigation Links:**
-  - [ #] About Us Link
-  - [ #] Services link
-  - [ #] Contact link
+  - [ x] About Us Link
+  - [ x] Services link
+  - [ x] Contact link
 
 - **Forms:**
-  - [ #] Contact form submission
-  - [ #] User registration
+  - [ x] Contact form submission
+  - [ x] User registration
 
 - **Responsiveness:**
-  - [ #] Test on various devices (desktop, tablet, mobile)
-  - [ #] Test on different browsers (Chrome, Firefox, Microsoft Edge)
+  - [ x] Test on various devices (desktop, tablet, mobile)
+  - [ x] Test on different browsers (Chrome, Firefox, Microsoft Edge)
 
 - **Images and Media:**
-  - [ #] Verify that all images load correctly
+  - [ x] Verify that all images load correctly
   
 - **Security:**
-  - [ #] Test login functionality
+  - [ x] Test login functionality
   
 - **Performance:**
-  - [ #] Test page loading times
+  - [ x] Test page loading times
 
 - **Browser Compatibility:**
-  - [ #] Test on major browsers (Chrome, Firefox, Edge)
+  - [ x] Test on major browsers (Chrome, Firefox, Edge)
 
 - **Error Handling:**
-  - [ #] Test error messages and validation
-
+  - [ x] Test error messages and validation
+check
 - **Accessibility:**
-  - [ #] Check for accessibility compliance
+  - [ x] Check for accessibility compliance
 
 ### Validation and Responsiveness
 
