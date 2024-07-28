@@ -133,6 +133,7 @@ Before deploying this website, I made sure to perform the following manual tests
   
 - **CSS Validation:**
   - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+  <img src="assets\image\css validator.png" alt="CSS code validation">
   
 - **Responsive Design Checker:**
   - [Responsive Design Checker](https://www.responsivedesignchecker.com/)
