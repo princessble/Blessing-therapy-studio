@@ -153,6 +153,10 @@ If you encounter any issues during testing, please report them immediately for r
 
 Special thanks to my mentor Julia for her valuable mentoring sessions, and guidance throughout the development of this project.
 
+I would also like to express my gratitude to:
+- **Limerick ETB**: I am grateful to Limerick ETB for providing me with this wonderful opportunity to learn and create.
+- **Code Institute**: Special thanks to Code Institute for offering a rich and comprehensive curriculum that guided me in building this project.
+
 I express my sincere gratitude to the following tools and technologies that have played a crucial role in the creation of Blessing Therapeutic Studio's website:
 
 1. HTML and CSS 🌐🎨: The backbone of web development, HTML, and CSS have been instrumental in structuring and styling our website, making it visually appealing and user-friendly.
