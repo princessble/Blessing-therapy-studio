@@ -106,30 +106,30 @@ Before deploying this website, I made sure to perform the following manual tests
   - [ #] Contact link
 
 - **Forms:**
-  - [ ] Contact form submission
-  - [ ] User registration
+  - [ #] Contact form submission
+  - [ #] User registration
 
 - **Responsiveness:**
-  - [ ] Test on various devices (desktop, tablet, mobile)
-  - [ ] Test on different browsers (Chrome, Firefox, Microsoft Edge)
+  - [ #] Test on various devices (desktop, tablet, mobile)
+  - [ #] Test on different browsers (Chrome, Firefox, Microsoft Edge)
 
 - **Images and Media:**
-  - [ ] Verify that all images load correctly
+  - [ #] Verify that all images load correctly
   
 - **Security:**
-  - [ ] Test login functionality
+  - [ #] Test login functionality
   
 - **Performance:**
-  - [ ] Test page loading times
+  - [ #] Test page loading times
 
 - **Browser Compatibility:**
-  - [ ] Test on major browsers (Chrome, Firefox, Edge)
+  - [ #] Test on major browsers (Chrome, Firefox, Edge)
 
 - **Error Handling:**
-  - [ ] Test error messages and validation
+  - [ #] Test error messages and validation
 
 - **Accessibility:**
-  - [ ] Check for accessibility compliance
+  - [ #] Check for accessibility compliance
 
 ### Validation and Responsiveness
 
