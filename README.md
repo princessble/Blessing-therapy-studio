@@ -3,7 +3,11 @@
 <p align="center">
   <img src="assets/image/logo.png" alt="Studio Logo" width="200" height="200">
 </p>
+## 🚀 Workflow
 
+Here's a visual representation of the workflow chart:
+
+![Workflow chart] <img src="assets\image\flowchart.png" alt="The workflowchart">
 ## Table of Contents
 - [Description](#description)
 - [About Us](#about-us)
