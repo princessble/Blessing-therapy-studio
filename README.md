@@ -92,7 +92,7 @@ Thank you for visiting Blessing Therapeutic Studio's GitHub repository!
 
 ## Manual Testing
 
-Before deploying this website,I made sure to perform the following manual tests:
+Before deploying this website, I made sure to perform the following manual tests:
 
 - **Navigation Links:**
   - [ ] About Us Link
@@ -105,16 +105,14 @@ Before deploying this website,I made sure to perform the following manual tests:
 
 - **Responsiveness:**
   - [ ] Test on various devices (desktop, tablet, mobile)
-  - [ ] Test on different browsers (Chrome, Firefox, Microsoft Edge.)
+  - [ ] Test on different browsers (Chrome, Firefox, Microsoft Edge)
 
 - **Images and Media:**
   - [ ] Verify that all images load correctly
   
-
 - **Security:**
   - [ ] Test login functionality
   
-
 - **Performance:**
   - [ ] Test page loading times
 
@@ -127,24 +125,29 @@ Before deploying this website,I made sure to perform the following manual tests:
 - **Accessibility:**
   - [ ] Check for accessibility compliance
 
-Remember to mark each test case with `[ ]` when you perform the test also, and `[x]` when it passes.
+### Validation and Responsiveness
+
+- **HTML Validation:**
+  - [W3C HTML Validator](https://validator.w3.org/)
+  
+- **CSS Validation:**
+  - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+  
+- **Responsive Design Checker:**
+  - [Responsive Design Checker](https://www.responsivedesignchecker.com/)
+
+Remember to mark each test case with `[ ]` when you perform the test and `[x]` when it passes.
 
 If you encounter any issues during testing, please report them immediately for resolution.
 
 ## Acknowledgements 🙏
 
-for the Tools Used:
-
 We express our sincere gratitude to the following tools and technologies that have played a crucial role in the creation of Blessing Therapeutic Studio's website:
 
 1. HTML and CSS 🌐🎨: The backbone of web development, HTML, and CSS have been instrumental in structuring and styling our website, making it visually appealing and user-friendly.
-
 2. Bootstrap 🅱️: We extend our appreciation to Bootstrap for providing a powerful and responsive framework that enabled us to create a modern and mobile-friendly design effortlessly.
-
 3. Git and GitHub 🐙: We are grateful to Git and GitHub for their version control capabilities, making collaboration among our team members seamless and efficient.
-
 4. Codeanyapp 💻: Our heartfelt thanks to Codeanyapp for serving as our trusty code editor, with its intuitive features and extensions that enhanced our productivity.
-
 5. Font Awesome 🎉: We extend our appreciation to Font Awesome for its vast collection of icons that added visual appeal and clarity to our website.
 
 We acknowledge the dedicated teams and communities behind these tools, whose continuous efforts have made web development an enjoyable and rewarding experience for us. Thank you for empowering us to create a website that truly reflects the essence of Blessing Therapeutic Studio. 🙏🌿
