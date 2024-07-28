@@ -101,9 +101,9 @@ Thank you for visiting Blessing Therapeutic Studio's GitHub repository!
 Before deploying this website, I made sure to perform the following manual tests:
 
 - **Navigation Links:**
-  - [ ] About Us Link
-  - [ ] Services link
-  - [ ] Contact link
+  - [ #] About Us Link
+  - [ #] Services link
+  - [ #] Contact link
 
 - **Forms:**
   - [ ] Contact form submission
@@ -150,6 +150,8 @@ Remember to mark each test case with `[ ]` when you perform the test and `[x]` w
 If you encounter any issues during testing, please report them immediately for resolution.
 
 ## Acknowledgements 🙏
+
+Special thanks to my mentor Julia for her valuable mentoring sessions, and guidance throughout the development of this project.
 
 We express our sincere gratitude to the following tools and technologies that have played a crucial role in the creation of Blessing Therapeutic Studio's website:
 
