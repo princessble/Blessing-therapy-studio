@@ -129,6 +129,7 @@ Before deploying this website, I made sure to perform the following manual tests
 
 - **HTML Validation:**
   - [W3C HTML Validator](https://validator.w3.org/)
+  <img src="assets\image\html validator.png" alt="HTML code validation">
   
 - **CSS Validation:**
   - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
