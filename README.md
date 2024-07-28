@@ -137,8 +137,7 @@ Before deploying this website, I made sure to perform the following manual tests
   
 - **Responsive Design Checker:**
   - [Responsive Design Checker](https://www.responsivedesignchecker.com/)
-  <img scr="assets\image\responsive.png" alt="Responsive Design png">
-
+  
 Remember to mark each test case with `[ ]` when you perform the test and `[x]` when it passes.
 
 If you encounter any issues during testing, please report them immediately for resolution.
