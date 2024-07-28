@@ -8,7 +8,7 @@
 
 Here's a visual representation of the workflow chart:
 
-![Workflow chart] <img src="assets\image\flowchart.png" alt="The workflowchart">
+![Workflow chart] <img src="assets\image\flowork.png" alt="The workflowchart">
 
 ## Table of Contents
 - [Description](#description)
